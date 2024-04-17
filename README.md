@@ -1,1 +1,1 @@
-# gfg_potd
+# GeeksForGeeks Problem Of The Day
